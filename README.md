@@ -1,5 +1,7 @@
 # Shopify Develop — Dawn Theme Learning Repository
 
+English | [中文](./README.zh-CN.md)
+
 This repository is cloned from Shopify's official open-source theme **Dawn 16.1.1** (`main` branch) for local study and secondary development practice.
 
 > The original theme is copyrighted by Shopify Inc.; see [LICENSE.md](./LICENSE.md) for the license. This repo is for personal learning only. If you later submit a modified theme to the Theme Store, it must meet official requirements such as being substantially different from Dawn.
